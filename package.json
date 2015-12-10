@@ -1,0 +1,24 @@
+{
+  "author": {
+    "email": "satyajit.happy@gmail.com",
+    "name": "Satyajit Sahoo"
+  },
+  "bugs": {
+    "url": "https://github.com/satya164/react-native-appvirality/issues"
+  },
+  "description": "A react-native module for Appvirality.",
+  "homepage": "https://github.com/satya164/react-native-appvirality#readme",
+  "keywords": [
+    "android",
+    "react",
+    "react-native",
+    "image",
+    "chooser"
+  ],
+  "name": "react-native-appvirality",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/scrollback/react-native-appvirality.git"
+  },
+  "version": "0.1.1"
+}
